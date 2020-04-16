@@ -1,17 +1,25 @@
-
-{
-  
-    "allergies": [
-      "peanut",
-      "mango"
-    ],
-    "vitals": {
-      "Bloodpressure": "140/65 mmHg",
-      "heartrate": "68 min",
-      "bodytemp": "35.7 degrees C",
-      "height": "182.9 cm",
-      "weight": "68.5"
-    }
-  
-}
-
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "allergy": "mango",
+    "vitals": "heart rate= 72/min"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "allergy": "peanuts",
+    "vitals": "Blood pressure = 140/64 mmhg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "allergy": "airborne-pollen",
+    "vitals": "Body temp = 36.7 C"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "allergy": "eum et est occaecati",
+    "vitals": "Height = 182.9 cm"
+  },
